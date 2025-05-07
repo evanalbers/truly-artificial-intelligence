@@ -1,1 +1,3 @@
 src/truly_artificial_intelligence.egg-info
+.venv
+*cache*/
